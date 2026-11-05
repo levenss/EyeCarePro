@@ -1,0 +1,6 @@
+.DS_Store
+A护眼宝
+*.app
+build/
+DerivedData/
+
